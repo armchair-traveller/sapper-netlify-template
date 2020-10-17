@@ -2,12 +2,12 @@
 
 A minimal template for deploying Sapper to Netlify.
 
-**Changes from Sapper default template**
+**Changes from Sapper default Rollup template**
 
 Removals:
 
 - Unnecessary routes like the blog and about page
-- Unnecessary components like Nav
+  - Nav component
 - Favicon and logo placeholder assets from both static folder and manifest
 - Cypress testing folder and commands
 
