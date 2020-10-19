@@ -10,6 +10,7 @@ Removals:
   - Nav component
 - Favicon and logo placeholder assets from both static folder and manifest
 - Cypress testing folder and commands
+- \_error 404 route, doesn't work with export/Netlify anyway
 
 Additions:
 
