@@ -16,6 +16,7 @@ Additions:
 - build command exports then moves to `public` folder
 - `netlify.toml` with functions activated, Node set to latest version, and using `public` folder to deploy
 - .gitignore additions to account for these changes
+- CSS border-box reset, I use this too much
 
 The template is meant to be a structure like starting a Gatsby project blank. You have the folders but you should add everything else based on your needs.
 Not every app needs a nav, favicon, etc. and this makes starting easier (once you're at least familiar with the folder structure of Sapper)
